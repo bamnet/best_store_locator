@@ -5,51 +5,161 @@
       <Point>
         <coordinates>-122.445631,37.4677</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Alpha</value>
+        </Data>
+        <Data name="sells_surfboards">
+          <value>True</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>False</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-122.021413,36.964529</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Beta</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>True</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>False</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-121.898761,36.614198</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Gamma</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>False</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>False</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-121.945217,36.567371</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Delta</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>True</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>True</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-121.932535,36.541697</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Epsilon</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>False</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>True</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-120.735025,35.179207</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Zeta</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>True</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>True</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-118.187678,33.742289</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Eta</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>True</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>True</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-117.780476,33.538011</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Theta</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>False</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>True</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-117.37587,33.18861</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Iota</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>False</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>False</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
     <Placemark>
       <Point>
         <coordinates>-117.278109,32.847138</coordinates>
       </Point>
+      <ExtendedData>
+        <Data name="name">
+          <value>Kappa</value>
+        </Data>
+        <Data name="sells_surfboards"> 
+          <value>True</value>
+        </Data>
+        <Data name="gives_lessons">
+          <value>True</value>
+        </Data>
+      </ExtendedData>
     </Placemark>
   </Document>
 </kml>
